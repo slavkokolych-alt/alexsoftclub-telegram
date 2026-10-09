@@ -103,7 +103,7 @@ tdata из Telegram Desktop. Программа сама находит и до�
 | Подписка | 9900 руб за первый месяц, далее 3000 руб в месяц |
 | Вечная лицензия | 19900 руб |
 
-Одна лицензия открывает все задачи, модульных тарифов нет. Ключ выдаёт автор - [@TGLeadHunter](https://t.me/tgleadhunter).
+Одна лицензия открывает все задачи, модульных тарифов нет. В лицензию входят оба софта - AlexSoftClub и [TelegramEngine](https://alexsoftclub.biz/telegramengine/), отдельно за TelegramEngine платить не нужно. Ключ выдаёт автор - [@TGLeadHunter](https://t.me/tgleadhunter).
 
 ---
 
@@ -127,7 +127,7 @@ tdata из Telegram Desktop. Программа сама находит и до�
 
 Автор [@TGLeadHunter](https://t.me/tgleadhunter). Мои продукты:
 - **AlexSoftClub** - Телеграм-комбайн: готовые задачи для автоматизации Telegram (этот репозиторий).
-- **TelegramEngine** - платформа на BAS, 100+ модулей для своих сценариев в Telegram без кода. [Документация](https://tgengine.alexsoftclub.biz/doc)
+- **TelegramEngine** - платформа на BAS, 100+ модулей для своих сценариев в Telegram без кода. Входит в лицензию AlexSoftClub. [Документация](https://tgengine.alexsoftclub.biz/doc)
 - **TwitterSoftClub** - Твиттер-комбайн: автоматизация X (Twitter). [Документация](https://x.alexsoftclub.biz/docs/)
 
 ### Автоматизирую ваш бизнес
